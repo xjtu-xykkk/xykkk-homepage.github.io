@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yukun Xie"
 description              : "Personal website of Yukun Xie, an undergraduate student in Computer Science at Xi'an Jiaotong University. Research interests include Embodied Intelligence, Graph Neural Networks (GNN), and Explainable AI (XAI)."
-repository               : "xjtu-xykkk/xjtu-xykkk.github.io" # 建议修改为你的实际 GitHub 仓库名
+repository               : "xjtu-xykkk/xykkk-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yukun Xie"
-  avatar           : "D:\xyk\照片\1.jpg" 
+  avatar           : "images/avatar.jpg" 
   bio              : "Undergraduate Student in Computer Science"
   location         : "Xi'an, China"
   employer         : "Xi'an Jiaotong University"
