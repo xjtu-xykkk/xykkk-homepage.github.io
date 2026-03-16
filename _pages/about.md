@@ -8,51 +8,57 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an undergraduate student majoring in Computer Science in the Computer Science Experimental Class (National Top-notch Plan) at the Qian Xuesen Honors College, Xi'an Jiaotong University. My overall GPA is 4.08/4.3, ranking 2nd in my cohort.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie primarily in Artificial Intelligence, with a specific focus on **Embodied Intelligence**, **World Model** and  **AIGC**. .
+
+✨ I’m always open to all kinds of cooperation and discussion. You can contact me via email or WeChat: xjtu-xykkk.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: Won an award in the American Mathematical Modeling Contest (MCM/ICM).
+- *2024.10*: Awarded the Xiaomi Scholarship.
+- *2024.06*: Won the Silver Medal in the Shaanxi Province ICPC.
 
-# 📝 Publications 
+# 📝 Publications | Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Embodied AI</div><img src="D:\xyk\论文\RoboFolow.png" alt="RoboFollow" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents]  (First Author) 
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Developing an Embodied AI high-entropy evaluation benchmark, RoboFollow, to diagnose and reveal the core bottlenecks of existing vla and vlm models in real-world instruction following by decoupling semantic understanding and action execution.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GNN & XAI</div><img src="D:\xyk\论文\gnn.png" alt="GNN" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Subgraph-Level GNN Explanation via Interaction Graphs]  (First Author) 
+
+- Proposed a method to explain GNNs using interaction graphs, identifying explanatory subgraphs with strong internal interactions that significantly impact model results, and applied this to explore biochemical knowledge in molecules.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GNN & XAI</div><img src="D:\xyk\论文\Linca.png" alt="GNN" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching]  
+
+- PWe propose LinCa, a learnable feature caching framework for diffusion model acceleration. By decomposing cached features via invertible networks and applying differentiated predictors per component, LinCa achieves near-lossless quality at high speedup ratios on FLUX, Qwen-Image, and HunyuanVideo.
+</div>
+</div>
+
+# 💻 Projects
+- **Unity Game Design & Development**: Led a 3-person team to design and develop a 2D game in Unity, including game themes, campus backgrounds, levels, and character animations.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02* American Mathematical Modeling Contest Award (Main Programmer).
+- *2024.10* Xiaomi Scholarship (Overall Rank: 2).
+- *2024.06* Shaanxi Province ICPC Provincial Silver Medal.
+- *2024.06* Lanqiao Cup National Third Prize (Software, Univ A Group).
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📖 Education
+- *2023.09 - Present*, B.Eng. in Computer Science, Qian Xuesen Honors College, Xi'an Jiaotong University.

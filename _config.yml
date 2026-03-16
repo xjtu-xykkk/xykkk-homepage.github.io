@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Yukun Xie"
+description              : "Personal website of Yukun Xie, an undergraduate student in Computer Science at Xi'an Jiaotong University. Research interests include Embodied Intelligence, Graph Neural Networks (GNN), and Explainable AI (XAI)."
+repository               : "xjtu-xykkk/xjtu-xykkk.github.io" # 建议修改为你的实际 GitHub 仓库名
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  name             : "Yukun Xie"
+  avatar           : "D:\xyk\照片\1.jpg" 
+  bio              : "Undergraduate Student in Computer Science"
+  location         : "Xi'an, China"
+  employer         : "Xi'an Jiaotong University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  #googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" # 如果有谷歌学术主页，请填入 ID
+  email            : "2506879648@qq.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -37,26 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "xjtu-xykkk"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  linkedin         : # e.g., "linkedin username" (如果有 LinkedIn 可以填入用户名)
+  dblp             : 
   orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
