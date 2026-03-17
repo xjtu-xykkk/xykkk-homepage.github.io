@@ -52,7 +52,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 </div>
 
 # 💻 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Unity Game</div><img src="images/unity.png" alt="Unity Game" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Unity Game</div><img src="images/unity.png" alt="Unity Game" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Unity Game Design & Development**
