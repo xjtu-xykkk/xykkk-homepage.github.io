@@ -42,7 +42,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src="images\Linca.png" alt="GNN" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src="images\Linca.png" alt="GNN" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching]  
