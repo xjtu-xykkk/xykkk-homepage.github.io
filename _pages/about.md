@@ -27,7 +27,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src="images/RoboFolow.png" alt="RoboFollow" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents]  (First Author) 
+**[RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents]  (First Author)**
 
 - Developing an Embodied AI high-entropy evaluation benchmark, RoboFollow, to diagnose and reveal the core bottlenecks of existing vla and vlm models in real-world instruction following by decoupling semantic understanding and action execution.
 </div>
@@ -36,7 +36,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src="images/gnn.png" alt="GNN" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Subgraph-Level GNN Explanation via Interaction Graphs]  (First Author) 
+**[Subgraph-Level GNN Explanation via Interaction Graphs]  (First Author)** 
 
 - Proposed a method to explain GNNs using interaction graphs, identifying explanatory subgraphs with strong internal interactions that significantly impact model results, and applied this to explore biochemical knowledge in molecules.
 </div>
@@ -45,7 +45,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src="images\Linca.png" alt="AIGC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching]  
+**[LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching]**  
 
 - We propose LinCa, a learnable feature caching framework for diffusion model acceleration. By decomposing cached features via invertible networks and applying differentiated predictors per component, LinCa achieves near-lossless quality at high speedup ratios on FLUX, Qwen-Image, and HunyuanVideo.
 </div>
