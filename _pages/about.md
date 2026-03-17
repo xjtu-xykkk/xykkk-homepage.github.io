@@ -52,7 +52,16 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 </div>
 
 # 💻 Projects
-- **Unity Game Design & Development**: Led a 3-person team to design and develop a 2D game in Unity, including game themes, campus backgrounds, levels, and character animations. [[Intro (PPTX)]](https://html5gameenginegroup.github.io/GTCS-Engine-Student-Projects/2025.3.XJTU/8/jieshao.pptx) \| [[Demo (Bilibili)]](https://www.bilibili.com/video/BV1rPQBYLE7X/?spm_id_from=333.1387.homepage.video_card.click&vd_source=2851d80fd4a5ec33f895aa7bd82043e9) \| [[Download (ZIP)]](https://html5gameenginegroup.github.io/GTCS-Engine-Student-Projects/2025.3.XJTU/8/Nightmare%20Apocalypse.zip)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Unity Game</div><img src="images/unity.png" alt="Unity Game" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Unity Game Design & Development**
+
+- Led a 3-person team to design and develop a 2D game in Unity, including game themes, campus backgrounds, levels, and character animations.
+
+[[Intro (PPTX)]](https://html5gameenginegroup.github.io/GTCS-Engine-Student-Projects/2025.3.XJTU/8/jieshao.pptx) \| [[Demo (Bilibili)]](https://www.bilibili.com/video/BV1rPQBYLE7X/?spm_id_from=333.1387.homepage.video_card.click&vd_source=2851d80fd4a5ec33f895aa7bd82043e9) \| [[Download (ZIP)]](https://html5gameenginegroup.github.io/GTCS-Engine-Student-Projects/2025.3.XJTU/8/Nightmare%20Apocalypse.zip)
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2025.02* American Mathematical Modeling Contest Award (Main Programmer).
