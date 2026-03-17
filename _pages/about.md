@@ -24,7 +24,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 
 # 📝 Publications | Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Embodied AI</div><img src="D:\xyk\论文\RoboFolow.png" alt="RoboFollow" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Embodied AI</div><img src="images/RoboFolow.png" alt="RoboFollow" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents]  (First Author) 
@@ -33,7 +33,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GNN & XAI</div><img src="D:\xyk\论文\gnn.png" alt="GNN" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GNN & XAI</div><img src="images/gnn.png" alt="GNN" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Subgraph-Level GNN Explanation via Interaction Graphs]  (First Author) 
@@ -42,7 +42,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GNN & XAI</div><img src="D:\xyk\论文\Linca.png" alt="GNN" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GNN & XAI</div><img src="images/Linca.png" alt="GNN" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching]  
