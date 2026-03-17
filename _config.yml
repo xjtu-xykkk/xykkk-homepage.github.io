@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yukun Xie"
-description              : "Personal website of Yukun Xie, an undergraduate student in Computer Science at Xi'an Jiaotong University. Research interests include Embodied Intelligence, Graph Neural Networks (GNN), and Explainable AI (XAI)."
+description              : "Personal website of Yukun Xie, an undergraduate student in Computer Science at Xi'an Jiaotong University."
 repository               : "xjtu-xykkk/xykkk-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
