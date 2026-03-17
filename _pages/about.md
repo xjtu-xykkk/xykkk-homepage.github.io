@@ -42,12 +42,12 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src="images\Linca.png" alt="GNN" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src="images\Linca.png" alt="AIGC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching]  
 
-- PWe propose LinCa, a learnable feature caching framework for diffusion model acceleration. By decomposing cached features via invertible networks and applying differentiated predictors per component, LinCa achieves near-lossless quality at high speedup ratios on FLUX, Qwen-Image, and HunyuanVideo.
+- We propose LinCa, a learnable feature caching framework for diffusion model acceleration. By decomposing cached features via invertible networks and applying differentiated predictors per component, LinCa achieves near-lossless quality at high speedup ratios on FLUX, Qwen-Image, and HunyuanVideo.
 </div>
 </div>
 
