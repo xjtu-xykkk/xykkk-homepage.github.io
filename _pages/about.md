@@ -52,7 +52,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 </div>
 
 # 💻 Projects
-- **Unity Game Design & Development**: Led a 3-person team to design and develop a 2D game in Unity, including game themes, campus backgrounds, levels, and character animations.
+- **Unity Game Design & Development**: Led a 3-person team to design and develop a 2D game in Unity, including game themes, campus backgrounds, levels, and character animations. [[Intro (PPTX)]](https://html5gameenginegroup.github.io/GTCS-Engine-Student-Projects/2025.3.XJTU/8/jieshao.pptx) \| [[Demo (Bilibili)]](https://www.bilibili.com/video/BV1rPQBYLE7X/?spm_id_from=333.1387.homepage.video_card.click&vd_source=2851d80fd4a5ec33f895aa7bd82043e9) \| [[Download (ZIP)]](https://html5gameenginegroup.github.io/GTCS-Engine-Student-Projects/2025.3.XJTU/8/Nightmare%20Apocalypse.zip)
 
 # 🎖 Honors and Awards
 - *2025.02* American Mathematical Modeling Contest Award (Main Programmer).
