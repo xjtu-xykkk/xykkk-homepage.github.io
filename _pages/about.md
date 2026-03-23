@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student majoring in Computer Science in the Computer Science Experimental Class (National Top-notch Plan) at the Qian Xuesen Honors College, Xi'an Jiaotong University. My overall GPA is 4.08/4.3, ranking 2nd in my cohort.
+I am an undergraduate student majoring in Computer Science in the Computer Science Experimental Class (National Top-notch Plan) at the Qian Xuesen Honors College, Xi'an Jiaotong University. My average score is 94.08, overall GPA is 4.08/4.3, ranking 2nd in my cohort.
 
 My research interests lie primarily in Artificial Intelligence, with a specific focus on **Embodied Intelligence**, **World Model** and  **AIGC**. .
 
