@@ -18,6 +18,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 
 
 # 🔥 News
+- *2026.3.15*：Selected for the university's AI Pilot Program and participated in the Alibaba Embodied AI Bootcamp.
 - *2025.02*: Won an award in the American Mathematical Modeling Contest (MCM/ICM).
 - *2024.10*: Awarded the Xiaomi Scholarship.
 - *2024.06*: Won the Silver Medal in the Shaanxi Province ICPC.
@@ -27,7 +28,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src="images/RoboFolow.png" alt="RoboFollow" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents]  (First Author)**
+**[RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents]  (co-first author)**
 
 - Developing an Embodied AI high-entropy evaluation benchmark, RoboFollow, to diagnose and reveal the core bottlenecks of existing vla and vlm models in real-world instruction following by decoupling semantic understanding and action execution.
 </div>
