@@ -18,7 +18,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 
 
 # 🔥 News
-- *2026.3.15*：Selected for the university's AI Pilot Program and participated in the Alibaba Embodied AI Bootcamp.
+- *2026.3.15*: Selected for the university's AI Pilot Program and participated in the Alibaba Embodied AI Bootcamp.
 - *2025.02*: Won an award in the American Mathematical Modeling Contest (MCM/ICM).
 - *2024.10*: Awarded the Xiaomi Scholarship.
 - *2024.06*: Won the Silver Medal in the Shaanxi Province ICPC.
