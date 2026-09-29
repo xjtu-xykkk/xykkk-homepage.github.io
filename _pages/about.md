@@ -14,7 +14,7 @@ I am an undergraduate student majoring in Computer Science in the Computer Scien
 
 My research interests lie primarily in Artificial Intelligence, with a specific focus on **Embodied Intelligence**, **World Model** and  **AIGC**. .
 
-✨ I’m always open to all kinds of cooperation and discussion. You can contact me via email or WeChat: xjtu-xykkk.
+✨ I’m always open to all kinds of cooperation and discussion. You can contact me via email or WeChat: 13861172026.
 
 
 # 🔥 News
