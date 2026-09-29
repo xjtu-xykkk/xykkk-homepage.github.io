@@ -26,7 +26,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 
 # 📝 Publications | Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src="images/RoboFolow.png" alt="RoboFollow" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CORL 2026 ACCEPTED</div><img src="images/RoboFolow.png" alt="RoboFollow" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents]  (co-first author)**
@@ -44,7 +44,7 @@ My research interests lie primarily in Artificial Intelligence, with a specific 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src="images\Linca.png" alt="AIGC" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 ACCEPTED</div><img src="images\Linca.png" alt="AIGC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching]**  
